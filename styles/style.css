@@ -1,0 +1,17 @@
+*{
+    color: #4a4a4a;
+}
+.bg-lightgray {
+    background-color: #e8e6e6;
+}
+.bg-lightgray1 {
+    background-color: #c5c3c3;
+}
+.hover:hover{
+    background-color: #dbdbdb;
+}
+@media only screen and (max-width: 768px){
+    .card_img{
+        height: 230px;
+    }
+}
